@@ -115,7 +115,7 @@ outputs:
         - setuptools_scm_git_archive
       run:
         - {{ pin_subpackage('libtomo') }}
-        - importlib_metadata
+        - importlib-metadata
         - numexpr >=2.0,<3
         - numpy >1.12,!=1.22.4
         - pywavelets >=1.0,<2
