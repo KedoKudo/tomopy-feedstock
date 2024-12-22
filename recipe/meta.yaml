@@ -40,7 +40,7 @@ source:
     # contains platform compatiblity patches for RISC and Apple Silicon which
     # upstream has not accepted.
   - url: https://github.com/tomopy/PTL/archive/bbf29702ba1e21eacb54958b2914d871b4139253.tar.gz
-    sha256: dbf0b6c34b399899652f900b4ebe01d71ca1151870913184df7bc5929a24d2c
+    sha256: dbf0b6c34b399899652f900b4ebe01d71ca1151870913184df7bc5929a24d2c0
     folder: source/PTL
 
 build:
